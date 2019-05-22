@@ -11,7 +11,7 @@ switch (today) {
     CLOSING_PAGE_CONTNET += '<p> videolunch videos?</p>' + '<p> anybody techtalk this week? (remember to invite the mobile team) </p>'
 }
 
-const names = ['André 😋', 'Lior 🐃', 'Martin 😾', 'Mathilde', 'Kevin']
+const names = ['André 😋', 'Lior 🐃', 'Martin 😾', 'Mathilde 🙆‍♀️', 'Kevin']
 
 const OPEN_PAGE_CONTENT = '<p>Short and quick, </p><p> no tech discussions or long bug descriptions please</p>'
 let currentPage = 0
